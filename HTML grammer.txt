@@ -1,0 +1,26 @@
+*unflash : 저작권 없는 이미지 다운가능
+*W3Schools : HTML 정보 사이트
+
+<strong> </strong> : 글씨 진하게 함
+<br> : 줄바꿈
+<p> </p> : 단락 나눔
+
+<li> </li> : 목차 생성
+<ul> </ul> : 목차 경계 나눔
+ul과 li는 부모-자식 태그이다.
+<ol> </ol> : 목차에 숫자 붙여줌
+
+<title> </title> : 웹 페이지 제목 설정
+<meta charset="utf-8"> : "utf-8로 웹 페이지를 읽어라" 라고 명령, 한글 안깨지게 함
+
+<head> </head> : 바디를 설명하는 태그를 묶음
+<body> </body> : 본문을 묶음
+<html> </html> : <head>와 <body>를 모두 묶음(초고위직 태그)
+<!doctype html> : "이 문서는 HTML이다"라는 것을 관용적으로 나타냄
+
+<a> </a> : 텍스트에 링크 걸 수 있음
+ex)<a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank" title="html5 speicification">
+href="" : 링크로 들어갈 사이트 삽입
+target="_blank" : 클릭했을 때 새 창이 뜸
+title="" : 마우스를 가져다 댔을 때 툴팁으로 무엇인지 나타냄
+
